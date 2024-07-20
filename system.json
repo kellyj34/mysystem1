@@ -49,7 +49,7 @@
   },
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
-  "url": "https://your/hosted/system/repo/",
-  "manifest": "https://your/hosted/system/repo/system.json",
-  "download": "https://your/packaged/download/archive.zip"
+  "url": "https://github.com/kellyj34/mysystem1",
+  "manifest": "https://raw.githubusercontent.com/kellyj34/mysystem1/main/system.json",
+  "download": "https://github.com/kellyj34/mysystem1/archive/refs/heads/main.zip"
 }
